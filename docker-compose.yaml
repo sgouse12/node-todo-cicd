@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: sgouse/project1:latest
+    image: sgouse12/project1:latest
     ports:
       - "8000:8000"
